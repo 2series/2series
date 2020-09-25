@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm a data scientist
+A Data Scientist who uses Machine Learning to train models and generate predictive insights to that end...with a twist...
+
 
 <!--
 **2series/2series** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
