@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-A Chartered Data Scientist who uses Machine Learning to train models and generate predictive insights to that end...with a twist...
+A Data Scientist who uses Machine Learning to train models and generate predictive insights to that end...with a twist...
 
 
 <!--
