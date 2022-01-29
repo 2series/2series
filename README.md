@@ -1,11 +1,10 @@
 ### Hi there 👋
 
 I'm a data scientist
+                                                                                                               <p align=”center”>
 
-![](https://media.giphy.com/media/m6MsCTeIladHmkCWNh/giphy.gif)
-
-<img src=”https://user-images.githubusercontent.com/39242447/151675327-800eba04-30b5-4bcf-924e-a8e4144c7ea0.jpg" alt=”my banner”>
-
+<img width=”200" height=”200" src=”https://github.com/2series/DataScienceHackathons/blob/main/timusic-photographs-RRLb2zFzRK8-unsplash.jpg" alt=”my banner”>
+                                                                                                                 </p>
 
 
 <!--
