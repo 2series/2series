@@ -2,6 +2,7 @@
 
 I'm a data scientist
 
+![ML](https://media.giphy.com/media/dUSkOT39uMA8S1xzh4/giphy.gif)
 
 <!--
 **2series/2series** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
