@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/39242447/151675327-800eba04-30b5-4bcf-924e-a8e4144c7ea0.jpg" alt="my banner"></a>
+  <a href="https://2series.github.io/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/39242447/151675327-800eba04-30b5-4bcf-924e-a8e4144c7ea0.jpg" alt="my banner"></a>
 </p>
 
 <h3 align="center">
@@ -32,6 +32,7 @@ Proficient in the modern machine learning toolkit, including supervised and unsu
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
