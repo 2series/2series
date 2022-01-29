@@ -4,6 +4,9 @@ I'm a data scientist
 
 ![](https://media.giphy.com/media/m6MsCTeIladHmkCWNh/giphy.gif)
 
+<img src=”https://user-images.githubusercontent.com/39242447/151675327-800eba04-30b5-4bcf-924e-a8e4144c7ea0.jpg" alt=”my banner”>
+
+
 
 <!--
 **2series/2series** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
