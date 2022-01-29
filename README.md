@@ -2,7 +2,7 @@
 
 I'm a data scientist
 
-![](https://media.giphy.com/media/bYOu4G8Ctz3UkuHVQe/giphy.gif)
+![](https://media.giphy.com/media/m6MsCTeIladHmkCWNh/giphy.gif)
 
 
 <!--
