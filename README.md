@@ -8,10 +8,10 @@ Hi there, I'm <a href="https://2series.github.io/" target="_blank" rel="noreferr
 </h3>
 
 <h2 align="center">
-I'm a Data Scientist!
+A Machine Learning Engineer!
 </h2> 
 
-## 🌱 As a seasoned Machine Learning Engineer, I specialize in tackling intricate challenges through the application of cutting-edge machine learning techniques. With a profound understanding of the theoretical foundations and practical nuances of the field, I excel at architecting and implementing innovative solutions that leverage data to derive actionable insights.
+🌱 As a seasoned Machine Learning Engineer, I specialize in tackling intricate challenges through the application of cutting-edge machine learning techniques. With a profound understanding of the theoretical foundations and practical nuances of the field, I excel at architecting and implementing innovative solutions that leverage data to derive actionable insights.
 
 My expertise encompasses the entire machine learning pipeline, from data preprocessing and feature engineering to model development, training, and deployment. I am adept at working with diverse datasets and employing a range of algorithms to address complex problems in domains such as computer vision, natural language processing, and predictive analytics.
 
