@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://2series.github.io/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/39242447/151675327-800eba04-30b5-4bcf-924e-a8e4144c7ea0.jpg" alt="my banner"></a>
+  <a href="https://2series.github.io/" target="_blank" rel="noreferrer"><img src="https://unsplash.com/photos/man-in-black-jacket-and-white-pants-doing-snow-ski-during-daytime-RFm48b7gdEM" alt="my banner"></a>
 </p>
 
 <h3 align="center">
@@ -10,7 +10,7 @@ Hi there, I'm <a href="https://2series.github.io/" target="_blank" rel="noreferr
 <h2 align="center">
 A Machine Learning Engineer!
 </h2> 
-
+https://user-images.githubusercontent.com/39242447/151675327-800eba04-30b5-4bcf-924e-a8e4144c7ea0.jpg
 🌱 As a seasoned Machine Learning Engineer, I specialize in tackling intricate challenges through the application of cutting-edge machine learning techniques. With a profound understanding of the theoretical foundations and practical nuances of the field, I excel at architecting and implementing innovative solutions that leverage data to derive actionable insights.
 
 My expertise encompasses the entire machine learning pipeline, from data preprocessing and feature engineering to model development, training, and deployment. I am adept at working with diverse datasets and employing a range of algorithms to address complex problems in domains such as computer vision, natural language processing, and predictive analytics.
