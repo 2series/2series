@@ -8,22 +8,22 @@ Greetings, I'm <a href="https://2series.github.io/" target="_blank" rel="norefer
 </h3>
 
 <h2 align="center" style="font-family: 'Roboto', sans-serif;">
-The Tony Stark of Machine Learning Engineering!
+The Iron Man of Machine Learning Engineering!
 </h2> 
 
 <div style="font-family: 'Roboto', sans-serif;">
 
-🚀 Just as Tony Stark revolutionized technology with his Iron Man suit, I'm pushing the boundaries of Machine Learning. I don't just code; I innovate. With a mind as sharp as a repulsor beam and problem-solving skills that would make JARVIS jealous, I transform complex data into actionable intelligence.
+🚀 Just as Tony Stark revolutionized technology with his Iron Man suit, I'm forging the future of Machine Learning. I don't just code; I innovate at the speed of thought. With a mind as brilliant as the Arc Reactor and problem-solving skills that would make JARVIS envious, I transform raw data into game-changing intelligence.
 
-My expertise isn't just about crunching numbers - it's about seeing patterns where others see chaos, much like how Tony Stark sees solutions where others see impossibilities. From data preprocessing to model deployment, I orchestrate the entire ML pipeline with the precision of an Arc Reactor.
+My expertise isn't just about crunching numbers - it's about decoding the universe's secrets hidden in data, much like how Tony Stark unravels the mysteries of advanced tech. From data preprocessing to model deployment, I orchestrate the entire ML pipeline with the precision of a nanotech suit assembly.
 
-Whether it's computer vision, NLP, or predictive analytics, I tackle challenges head-on, always staying ahead of the curve. Like Stark Industries leading the tech world, I'm at the forefront of ML advancements, constantly upgrading my arsenal of skills and knowledge.
+Whether it's giving machines the power of sight, teaching AI to understand human language, or predicting the future with uncanny accuracy, I face each challenge with the determination of Iron Man facing off against Thanos. Like Stark Industries leading the tech revolution, I'm at the cutting edge of ML advancements, constantly upgrading my arsenal of skills and pushing the boundaries of what's possible.
 
-I'm not just passionate about ML; I'm driven to use it as a force for good, solving real-world problems and driving innovation. In a world of constant technological evolution, I'm not just keeping up - I'm setting the pace.
+I'm not just passionate about ML; I'm on a mission to use it as a force for good, solving real-world problems and driving innovation that makes a difference. In a world of constant technological evolution, I'm not just keeping up - I'm blazing the trail, leaving a legacy of innovation in my wake.
 
 </div>
 
-<h2 style="font-family: 'Roboto', sans-serif;">💼 Tech Arsenal</h2>
+<h2 style="font-family: 'Roboto', sans-serif;">💼 Superhero Tech Arsenal</h2>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -41,12 +41,19 @@ I'm not just passionate about ML; I'm driven to use it as a force for good, solv
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-<h2 style="font-family: 'Roboto', sans-serif;">🚀 Mission Stats</h2>
+<h2 style="font-family: 'Roboto', sans-serif;">🚀 Avenger-Level Stats</h2>
 
 [![Rihad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=2series&show_icons=true&theme=radical)](https://github.com/2series)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2series&layout=compact&theme=radical)](https://github.com/2series)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=2series.2series)](https://2series.github.io/)
+<p align="center" style="font-family: 'Roboto', sans-serif;">
+  <img src="https://img.shields.io/badge/Powered%20by-Arc%20Reactor-blue?style=for-the-badge&logo=iron-man&logoColor=white" alt="Powered by Arc Reactor">
+  <img src="https://img.shields.io/badge/Hosted%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Hosted on GitHub">
+</p>
 
-<p style="font-family: 'Roboto', sans-serif;">Powered by an Arc Reactor, hosted on GitHub</p>
+<p align="center" style="font-family: 'Roboto', sans-serif;">
+  <a href="https://www.linkedin.com/in/rihadvariawa/" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
+  </a>
+</p>
