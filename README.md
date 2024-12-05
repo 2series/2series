@@ -8,18 +8,18 @@ Greetings, I'm <a href="https://2series.github.io/" target="_blank" rel="norefer
 </h3>
 
 <h2 align="center" style="font-family: 'Roboto', sans-serif;">
-The Iron Man of Machine Learning Engineering!
+The Iron Man of ML & Security Engineering!
 </h2> 
 
 <div style="font-family: 'Roboto', sans-serif;">
 
-🚀 Just as Tony Stark revolutionized technology with his Iron Man suit, I'm forging the future of Machine Learning. I don't just code; I innovate at the speed of thought. With a mind as brilliant as the Arc Reactor and problem-solving skills that would make JARVIS envious, I transform raw data into game-changing intelligence.
+🚀 Just as Tony Stark revolutionized technology with his Iron Man suit, I'm forging the future of Machine Learning & Cybersecurity. I don't just code; I innovate at the speed of thought. With a mind as brilliant as the Arc Reactor and problem-solving skills that would make JARVIS envious, I transform raw data into game-changing intelligence.
 
 My expertise isn't just about crunching numbers - it's about decoding the universe's secrets hidden in data, much like how Tony Stark unravels the mysteries of advanced tech. From data preprocessing to model deployment, I orchestrate the entire ML pipeline with the precision of a nanotech suit assembly.
 
 Whether it's giving machines the power of sight, teaching AI to understand human language, or predicting the future with uncanny accuracy, I face each challenge with the determination of Iron Man facing off against Thanos. Like Stark Industries leading the tech revolution, I'm at the cutting edge of ML advancements, constantly upgrading my arsenal of skills and pushing the boundaries of what's possible.
 
-I'm not just passionate about ML; I'm on a mission to use it as a force for good, solving real-world problems and driving innovation that makes a difference. In a world of constant technological evolution, I'm not just keeping up - I'm blazing the trail, leaving a legacy of innovation in my wake.
+I'm not just passionate about ML & Cybersecurity I'm on a mission to use it as a force for good, solving real-world problems and driving innovation that makes a difference. In a world of constant technological evolution, I'm not just keeping up - I'm blazing the trail, leaving a legacy of innovation in my wake.
 
 </div>
 
