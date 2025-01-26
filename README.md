@@ -52,8 +52,10 @@ I'm not just passionate about ML & Cybersecurity I'm on a mission to use it as a
   <img src="https://img.shields.io/badge/Hosted%20on-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Hosted on GitHub">
 </p>
 
+<!--
 <p align="center" style="font-family: 'Roboto', sans-serif;">
   <a href="https://www.linkedin.com/in/rihadvariawa/" target="_blank">
     <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
   </a>
 </p>
+-->
