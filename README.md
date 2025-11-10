@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/39242447/151675327-800eba04-30b5-4bcf-924e-a84144c7ea0.jpg" alt="Rihad's Banner" width="900"/>
-</div>
+<p align="center">
+  <a href="https://2series.github.io/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/39242447/151675327-800eba04-30b5-4bcf-924e-a8e4144c7ea0.jpg" alt="my banner"></a>
+</p>
 
 <h1 align="center">Hi there, I'm Rihad (he/him) 👋</h1>
 
