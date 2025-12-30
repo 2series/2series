@@ -10,7 +10,7 @@
   <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email"/></a>
 </p>
 
-I'm a Senior Software Engineer specializing in the intersection of **Machine Learning** and **Cybersecurity**. My passion is architecting intelligent, secure, and scalable systems—think of it as building my own fleet of Iron Man suits, but with code.
+Lead AI Engineer & Backend Specialist. Focusing on Production RAG, Forensic AI, and Scalable Infrastructure.
 
 -   🤖 **What I build:** End-to-end ML pipelines, from data ingestion to monitored deployment.
 -   🛡️ **My Focus:** Creating robust security protocols to defend systems against emerging threats.
